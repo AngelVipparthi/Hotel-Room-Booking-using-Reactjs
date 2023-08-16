@@ -1,13 +1,3 @@
 # React-Project-Hotel-Room-Booking
 
-### 🔰 Live Preview Projects:
-
-- Complete "Beach Resort | Hotel Room Book" Project - [Click To Live Preview][beach-resort]
-
-<br />
-
-                    </> HAPPY DEVELOPING 🤣 </>
-
-<!-- project link -->
-
-[beach-resort]: https://mukul-breach-resort-project.netlify.app/
+The Resort Booking Website project showcases the practical application of React, employing modern web technologies to develop a responsive and user-friendly platform for booking beach resorts. By leveraging React's capabilities, the project aims to provide a smooth and efficient booking process, offering users an intuitive interface adaptable to various devices and screen sizes. ReactJS focuses on creating dynamic online applications without page reloads, enhancing user experiences.Through its successful implementation, the project demonstrates how React contributes to creating feature-rich applications that enrich the user's planning experience for beach getaways.
